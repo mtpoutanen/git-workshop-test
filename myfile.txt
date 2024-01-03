@@ -2,3 +2,4 @@ hello world
 hello git
 hello branch
 Hello merge conflict
+new conflict
