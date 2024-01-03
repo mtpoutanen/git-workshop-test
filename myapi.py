@@ -37,7 +37,7 @@ def read_hello8() -> Dict[str, str]:
 
 @app.get("/hello9")
 def read_hello9() -> Dict[str, str]:
-    return {"message": "Hello World 9"}
+    return delete_all_users()
 
 @app.get("/hello10")
 def read_hello10() -> Dict[str, str]:
